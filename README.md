@@ -4,4 +4,6 @@
 <div align="center">
   <p></p>
 </div>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=badpharma&theme=dark)
+<div id="stats" align="center">
+(https://github-readme-stats.vercel.app/api?username=badpharma&theme=dark)
+</div>
