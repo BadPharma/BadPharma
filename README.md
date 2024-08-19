@@ -4,10 +4,10 @@
 
 <div align="center">
   <h1>Welcome</h1>
-  <p>Very new here</p>
 </div>
 
 <div id="stats" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=badpharma&theme=tokyonight">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=badpharma">
 
 </div>
