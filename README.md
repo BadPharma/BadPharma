@@ -7,7 +7,7 @@
 </div>
 
 <div id="stats" align="center">
-<img height =200 src="https://github-readme-stats.vercel.app/api?username=badpharma&theme=tokyonight">
-<img height =200 src ="https://github-readme-stats.vercel.app/api/top-langs/?username=badpharma&theme=tokyonight&layout=donut">
+<img height =200 src="https://github-readme-stats.vercel.app/api?username=BadPharma&theme=tokyonight">
+<img height =200 src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BadPharma&theme=tokyonight&layout=donut">
 
 </div>
