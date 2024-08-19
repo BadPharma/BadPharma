@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <h1>Welcome</h1>
+  <p>Help Yourself</p>
 </div>
 
 <div id="stats" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=badpharma&theme=tokyonight">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=badpharma">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=badpharma&theme=tokyonight">
 
 </div>
