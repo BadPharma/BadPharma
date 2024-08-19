@@ -4,4 +4,4 @@
 <div align="center">
   <p></p>
 </div>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=badpharma&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=badpharma&theme=dark)
