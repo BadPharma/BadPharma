@@ -8,6 +8,6 @@
 
 <div id="stats" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=badpharma&theme=tokyonight">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=badpharma&theme=tokyonight">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=badpharma&theme=tokyonight&layout=donut">
 
 </div>
