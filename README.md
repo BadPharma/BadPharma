@@ -5,5 +5,6 @@
   <p></p>
 </div>
 <div id="stats" align="center">
-(https://github-readme-stats.vercel.app/api?username=badpharma&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=badpharma&theme=dark">
+
 </div>
