@@ -5,5 +5,5 @@
   <p></p>
 </div>
 <div id="header" align="center">
-  [![Badpharma GitHub stats](https://github-readme-stats.vercel.app/api?username=badpharma](https://github.com/anuraghazra/github-readme-stats)
+  [![Badpharma GitHub stats](https://github-readme-stats.vercel.app/api?username=badpharma)](https://github.com/anuraghazra/github-readme-stats)
 </div>
