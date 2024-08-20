@@ -8,7 +8,7 @@
     
   </div>
   
-  <div style="height:200px;" class="spacer align="center" >
+  <div style="height:200px;" align="center" >
   </div>
 
 <div id="stats" align="center" margin>
