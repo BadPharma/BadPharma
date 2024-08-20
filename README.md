@@ -7,8 +7,10 @@
    <a href="https://badpharma.github.io/Mock4"> ITIL 4 Mock Test </a>
     
   </div>
+  <div style="width:100px;" style ="height:100px;" class="spacer align="center" >
+  </div>
 
-<div id="stats" align="center">
+<div id="stats" align="center" margin>
 <img height =200 src="https://github-readme-stats.vercel.app/api?username=BadPharma&theme=tokyonight">
 <img height =200 src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BadPharma&theme=tokyonight&layout=donut">
 
