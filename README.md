@@ -6,6 +6,8 @@
   <p><b>Help Yourself</b></p>
 </div>
 
+  :desktop_computer:
+
 <div id="stats" align="center">
 <img height =200 src="https://github-readme-stats.vercel.app/api?username=BadPharma&theme=tokyonight">
 <img height =200 src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BadPharma&theme=tokyonight&layout=donut">
