@@ -8,10 +8,7 @@
     
   </div>
   
-  <div style="height: 100px;">
-
-</div>
-
+<br>
 <div id="stats" align="center" margin>
 <img height =200 src="https://github-readme-stats.vercel.app/api?username=BadPharma&theme=tokyonight">
 <img height =200 src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BadPharma&theme=tokyonight&layout=donut">
