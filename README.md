@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p><b><s>Help Yourself</b></s></p>
+  <p><b>Help Yourself</b></p>
 </div>
 
 <div id="stats" align="center">
