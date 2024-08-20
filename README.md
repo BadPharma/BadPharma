@@ -7,7 +7,8 @@
    <a href="https://badpharma.github.io/Mock4"> ITIL 4 Mock Test </a>
     
   </div>
-  <div style="width:100px;" style ="height:100px;" class="spacer align="center" >
+  
+  <div style="height:200px;" class="spacer align="center" >
   </div>
 
 <div id="stats" align="center" margin>
